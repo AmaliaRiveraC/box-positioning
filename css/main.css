@@ -1,0 +1,54 @@
+/*Id's*/
+#blue {
+    background-color: blue;
+}
+
+#black {
+    background: black;
+}
+
+#green {
+    background-color: green;
+}
+#purple {
+    background-color: purple;
+}
+
+#red {
+    background-color: red;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+
+/*Size class*/
+.big-square {
+    height: 280px;
+    position: relative;
+    width: 280px;
+}
+
+.medium-square {
+    height: 140px;
+    left: 70px;
+    position: absolute;
+    width: 140px;
+    top: 70px;
+}
+
+.small-square {
+    height: 70px;
+    position: absolute;
+    width: 70px;
+}
+
+/*Margins BEM*/
+.mt-5 {
+    margin-top: 5%;
+}
+
+.ml-20 {
+    margin-left: 20%;
+}
